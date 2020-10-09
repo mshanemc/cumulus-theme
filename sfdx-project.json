@@ -2,10 +2,17 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "CumulusTheme",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
     }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "49.0"
+  "sourceApiVersion": "49.0",
+  "packageAliases": {
+    "CumulusTheme": "0Ho3u000000CaWvCAK",
+    "CumulusTheme@0.1.0-1": "04t3u0000038OuoAAE"
+  }
 }
