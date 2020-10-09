@@ -6,7 +6,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>PAGE_BACKGROUND_COLOR</propertyName>
-        <propertyValue>#FFFFFF</propertyValue>
+        <propertyValue>#B0C4DF</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>HEADER_BACKGROUND_COLOR</propertyName>
@@ -18,7 +18,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>BANNER_IMAGE</propertyName>
-        <propertyValue />
+        <propertyValue>/file-asset/theme_background?v=1</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>GROUPS_BANNER_IMAGE</propertyName>
@@ -44,5 +44,5 @@
         <propertyName>OVERRIDE_LOADING_PAGE</propertyName>
         <propertyValue>false</propertyValue>
     </brandingSetProperty>
-    <masterLabel>Cumulus</masterLabel>
+    <masterLabel>CumulusMortgage</masterLabel>
 </BrandingSet>
