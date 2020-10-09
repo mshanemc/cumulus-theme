@@ -5,7 +5,7 @@
       "default": true,
       "package": "CumulusTheme",
       "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT"
+      "versionNumber": "0.2.0.NEXT"
     }
   ],
   "namespace": "",
@@ -13,6 +13,7 @@
   "sourceApiVersion": "49.0",
   "packageAliases": {
     "CumulusTheme": "0Ho3u000000CaWvCAK",
-    "CumulusTheme@0.1.0-1": "04t3u0000038OuoAAE"
+    "CumulusTheme@0.1.0-1": "04t3u0000038OuoAAE",
+    "CumulusTheme@0.2.0-1": "04t3u0000038OutAAE"
   }
 }
